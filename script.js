@@ -165,7 +165,7 @@ function createCouponCard(coupon, index) {
         <!-- Column 1: Logo Only -->
         <div class="coupon-col-logo">
           <div class="coupon-icon-wrapper">
-            <img src="images/magnific-logo.svg" alt="Magnific AI Logo" class="coupon-logo-img">
+            <img src="https://magnificpromocode.github.io/images/magnific-logo.png" alt="Magnific AI Logo" class="coupon-logo-img">
           </div>
         </div>
 
