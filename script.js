@@ -3,8 +3,8 @@ const AFFILIATE_URL = "https://allcouponcodes.net/refer/magnific";
 
 // Coupon Data - Verified from competitor research (SimplyCodes, Wethrift, JoinSecret Aug 2026)
 const coupons = [
-  { code: "GMRP0907JUL3679", discount: "25% OFF", description: "25% Off Storewide. Best verified deal on all Magnific plans (Premium, Premium+ & Pro). Limited time offer!", type: "exclusive", initialDays: 7, baseUses: 87, baseSuccess: "99.6%" },
-  { code: "FREEMAG20", discount: "20% OFF", description: "20% Off Premium & Premium+ Subscriptions. Valid for new and upgrading users.", type: "normal", initialDays: 4, baseUses: 64, baseSuccess: "98.9%" },
+  { code: "GMRP2523DEC1323", discount: "25% OFF", description: "25% Off Storewide. Best verified deal on all Magnific plans (Premium, Premium+ & Pro). Limited time offer!", type: "exclusive", initialDays: 7, baseUses: 87, baseSuccess: "99.6%" },
+  { code: "GMRP2523DEC1323", discount: "20% OFF", description: "20% Off Premium & Premium+ Subscriptions. Valid for new and upgrading users.", type: "normal", initialDays: 4, baseUses: 64, baseSuccess: "98.9%" },
   { code: "MAGNIFIC15", discount: "15% OFF", description: "15% Off Any Magnific Monthly Plan. Instant discount applied at checkout.", type: "normal", initialDays: 3, baseUses: 78, baseSuccess: "97.5%" },
   { code: "GMRP1004ABR348", discount: "20% OFF", description: "20% Off via referral link. May require sign-up through partner page to activate.", type: "unverified", initialDays: 5, baseUses: 42, baseSuccess: "88.2%" },
   { code: "GMRP0802MAY912", discount: "10% OFF", description: "10% Off Credit Top-Ups. Save on additional generation credits.", type: "unverified", initialDays: 2, baseUses: 35, baseSuccess: "84.0%" }
